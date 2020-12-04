@@ -23,8 +23,8 @@ email: cifarquhar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thrilling adventures in coding! Starring Spring, React and Electron with regular
   special guests!
-baseurl: "/test_blog" # the subpath of your site, e.g. /blog
-url: "cifarquhar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: colinf87
 github_username:  cifarquhar
 
