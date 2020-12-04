@@ -29,7 +29,7 @@ twitter_username: colinf87
 github_username:  cifarquhar
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 
 
 # Exclude from processing.
